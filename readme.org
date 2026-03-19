@@ -1,0 +1,6 @@
+#+title: Readme
+#+author: Hugo de Oliveira Resende
+
+* sobre o projeto...
+basicamente e uma pagina simples sobre a receita de um cupcake, nada demais mesmo.
+quis fazer isso mais para treinar o html e css, pelo menos a parte fundamental.
